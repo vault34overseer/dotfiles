@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = taloskwong@gmail.com
+	name = Talos Kwong
